@@ -12,7 +12,7 @@ dependencies:
   version: 0.0.16
 - name: mqube-client-interface
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.22
+  version: 0.0.23
 - name: mqube-propertysearch-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
